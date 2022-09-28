@@ -1,6 +1,6 @@
 /**
  * Author: George P.
- * Github: https://github.com/GeorgePaulino
+ * Github: https://github.com/GeorgePaulino/Melody
  * Created: 07.05.2022
  * 
  * License: MIT
@@ -10,7 +10,7 @@
 
 Dictionary &ledNotes = *(new Dictionary()); // Dictionary of notes, return led port.
 
-int leds[] = {5, 2, 3, 6, 4, 7}; // Ports of the leds.
+int leds[] = {5, 2, 3, 4}; // Ports of the leds.
 int ledSize = sizeof(leds) / sizeof(leds[0]);
 
 void setLedNotes(int *melody, int s)

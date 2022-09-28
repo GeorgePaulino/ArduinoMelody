@@ -1,6 +1,6 @@
 /**
  * Author: George P.
- * Github: https://github.com/GeorgePaulino
+ * Github: https://github.com/GeorgePaulino/Melody
  * Created: 07.05.2022
  * 
  * License: MIT

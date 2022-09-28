@@ -1,6 +1,6 @@
 /**
  * Author: George P.
- * Github: https://github.com/GeorgePaulino
+ * Github: https://github.com/GeorgePaulino/Melody
  * Created: 07.05.2022
  * 
  * License: MIT
@@ -10,10 +10,10 @@
 #include "Leds.h"
 
 /* Pick a melody from 'Melodies' folder and import to play. */
-#include "Melodies/Megalovania.h"
+#include "Melodies/TetrisThemeA.h"
 
 /* Define here the port of the buzzer wich will play the music. */
-int buzzer = 13; // Put here the buzzer port.
+int buzzer = 12; // Put here the buzzer port.
 
 /* Some predefinitions to melodies with time 4/4 or 3/4. */
 #define BPM44 144 // In BPM.
