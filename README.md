@@ -1,7 +1,7 @@
 
 # Melody
 
-Arduino melody player, applying a musical note frequency to a buzzer and leds light effects.
+Arduino melody player, applying a musical note frequency to a buzzer and leds light effects. Some sample songs can be find in the folder /Melodies.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
